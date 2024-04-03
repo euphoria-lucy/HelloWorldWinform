@@ -61,6 +61,7 @@
             this.ClientSize = new System.Drawing.Size(1481, 869);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.textBox1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.Text = "3111 양미성";
